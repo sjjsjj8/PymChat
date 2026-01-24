@@ -1,1 +1,4 @@
-{"item":{"name":"PymChat","description":"机表互通 免费时代 支持esim独立使用 大家可以通过 afdian.com/a/pym520 支持服务器和开发（有专属奖励）界面来自@AzumaChiaki","preview":["preview0.png","preview1.png","preview2.png"],"icon":"icon.png","source_url":"https://github.com/sjjsjj8/PymChat","author":[]},"downloads":{"n67":{"version":"1.0.3","file_name":"M2401B1.rpk"}}}
+{"item":{"name":"PymChat","description":"机表互通 免费时代 支持esim独立使用 大家可以通过 afdian.com/a/pym520 支持服务器和开发（有专属奖励）界面来自@AzumaChiaki","preview":["preview0.png","preview1.png","preview2.png"],"icon":"icon.png","source_url":"https://github.com/sjjsjj8/PymChat","author": [{
+            "name": "宇新",
+            "author_url": "afdian.com/a/pym520"
+        }],"downloads":{"M2401B1":{"version":"1.0.3","file_name":"M2401B1.rpk"}}}
