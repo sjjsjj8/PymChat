@@ -22,6 +22,10 @@
     "o65m": {
       "version": "3.0.0",
       "file_name": "tongp.rpk"
+    },
+    "o62": {
+      "version": "3.0.0",
+      "file_name": "S4.rpk"
     }
   }
 }
